@@ -244,7 +244,7 @@ jupyter notebook
 ```
 
 
-> **Note:** Raw data files are not included in the repository. Place `customers.csv`, `loans.csv`, and `transactions.csv` in `data/raw/` before running the notebooks.
+> **Note:** The synthetic raw dataset used for this project is included in the repository.
 
 ---
 
